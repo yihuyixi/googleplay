@@ -1,0 +1,7 @@
+{id:1631363,name:"男性私人医生",packageName:com.medapp.man,iconUrl:"app/com.medapp.man/icon.jpg",stars:4.0,downloadNum:"40万+",version:"1.1.0605.0",date:"2014-06-10",size:1979701,downloadUrl:"app/com.medapp.man/com.medapp.man.apk",des:"男性私人医生是一款专门针对男性生理健康以及其他相关专科病症提供免费在线咨询的医疗软件。尴尬症状总因为尴尬或者忙碌等原因而忽略去医院，本产品集合各大城市几百家医院的宝贵资源，不挂号、不排队就可以享受免费的健康VIP服务，提供在线一对一的专业医疗咨询帮助， 量身定制的专业医疗咨询，让您健康生活再无后顾之忧~
+功能优势：
+1.男科，前列腺科，肛肠科，皮肤科，腋臭科，口腔科，眼科，甲亢，骨科等多个科室提供在线咨询；
+2.按所在地就近分配在线医生，按需求分类咨询，科室齐全；
+3.提供在线健康咨询医生均为在职医生，专业权威；
+4.各类健康活动及时查询，可预约体验；可预约挂号；
+5.隐私对话及个人信息绝对保密。",author:"天亚科创",screen:["app/com.medapp.man/screen0.jpg","app/com.medapp.man/screen1.jpg","app/com.medapp.man/screen2.jpg","app/com.medapp.man/screen3.jpg","app/com.medapp.man/screen4.jpg"],safe:[{safeUrl:"app/com.medapp.man/safeIcon0.jpg",safeDesUrl:"app/com.medapp.man/safeDesUrl0.jpg",safeDes:"已通过安智市场安全检测，请放心使用",safeDesColor:0},{safeUrl:"app/com.medapp.man/safeIcon1.jpg",safeDesUrl:"app/com.medapp.man/safeDesUrl1.jpg",safeDes:"无任何形式的广告",safeDesColor:0}]}

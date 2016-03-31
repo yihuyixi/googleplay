@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <ScrollView android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:id="@+id/sv_container"
+        android:layout_height="0dp">
+        
+        <LinearLayout android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            
+            <!-- app info模块 -->
+            <include layout="@layout/layout_app_detail_info"/>
+            
+            <!-- app safe模块 -->
+            <include layout="@layout/layout_app_detail_safe"/>
+            
+            <!-- app screen模块 -->
+             <include layout="@layout/layout_app_detail_screen"/>
+            <!-- app des模块 -->
+             <include layout="@layout/layout_app_detail_des"/>
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:padding="8dp"
+        android:background="@drawable/detail_bottom_bg"
+        android:orientation="horizontal">
+        
+        <Button android:layout_width="wrap_content"
+            android:text="收藏"
+            android:textSize="16sp"
+            android:textColor="#ffffff"
+            android:background="@drawable/selector_detail_btn"
+            android:layout_height="match_parent"
+           />
+        <FrameLayout android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_height="match_parent">
+            
+            <ProgressBar android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/pb_progress"
+                android:progressDrawable="@drawable/progress_drawable"
+                style="@android:style/Widget.ProgressBar.Horizontal"
+                />
+            
+            <Button android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="下载"
+                android:textColor="#ffffff"
+                android:textSize="16sp"
+                android:background="@drawable/selector_btn_download"
+                android:id="@+id/btn_download"/>
+        </FrameLayout>
+        
+        <Button android:layout_width="wrap_content"
+            android:text="分享"
+            android:textColor="#ffffff"
+            android:textSize="16sp"
+            android:background="@drawable/selector_detail_btn"
+            android:layout_height="match_parent"
+           />
+        
+    </LinearLayout>
+    
+</LinearLayout>

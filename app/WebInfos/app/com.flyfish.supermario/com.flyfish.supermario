@@ -1,0 +1,8 @@
+{id:1614799,name:"超级玛丽",packageName:com.flyfish.supermario,iconUrl:"app/com.flyfish.supermario/icon.jpg",stars:3.0,downloadNum:"600万+",version:"1.0.87",date:"2014-06-04",size:3529659,downloadUrl:"app/com.flyfish.supermario/com.flyfish.supermario.apk",des:"你是80后或90后吗?如果你是的话,应该知道童年最好的游戏是什么,对!超级玛丽.
+这是一款经典的超级玛丽android版,完全保留了原版风格,通过控制马里奥打败里面的小怪,吃金币过关.
+屏幕左下方的上下左右按钮控制方向,右下方的红色和绿色按钮分别为发子弹和跳跃.
+此款超级玛丽操作简单,很容易上手,动感的背景音乐能勾起童年的美好回忆.而且完全免费,喜欢超级玛丽的朋友千万不要错过.
+更新日志：
+1.修复上一版本中存在的bug
+2.优化系统性能
+3.修改部分游戏UI",author:"flyfishrh",screen:["app/com.flyfish.supermario/screen0.jpg","app/com.flyfish.supermario/screen1.jpg","app/com.flyfish.supermario/screen2.jpg","app/com.flyfish.supermario/screen3.jpg","app/com.flyfish.supermario/screen4.jpg"],safe:[{safeUrl:"app/com.flyfish.supermario/safeIcon0.jpg",safeDesUrl:"app/com.flyfish.supermario/safeDesUrl0.jpg",safeDes:"已通过安智市场安全检测，请放心使用",safeDesColor:0},{safeUrl:"app/com.flyfish.supermario/safeIcon1.jpg",safeDesUrl:"app/com.flyfish.supermario/safeDesUrl1.jpg",safeDes:"含广告，可能会影响您的使用体验",safeDesColor:1}]}

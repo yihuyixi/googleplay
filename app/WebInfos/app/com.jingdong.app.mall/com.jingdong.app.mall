@@ -1,0 +1,8 @@
+{id:1640273,name:"京东",packageName:com.jingdong.app.mall,iconUrl:"app/com.jingdong.app.mall/icon.jpg",stars:3.0,downloadNum:"1000万+",version:"3.6.3",date:"2014-06-13",size:14282026,downloadUrl:"app/com.jingdong.app.mall/com.jingdong.app.mall.apk",des:"京东是中国最大的综合网购平台, 正品行货,  售后上门取件, 省钱又放心.商品品类覆盖家电,数码通讯,电脑,家居百货,服装服饰,母婴,图书,食品等12大类数万个品牌超百万种优质商品, 是网购用户首选.
+京东Android版是一款基于Android平台的网络购物软件,不仅具有下单,查询订单,搜索商品,晒单,产品评价等常用功能,还实现了手机版特有的“条码购”,“语音充值”,“物流实时跟踪”,“拍照晒单”等特色功能.
+主要功能简介:
+1.足不出户，百万商品任你选。热门促销，天天折扣享不停。
+2.支持语音搜索、语音充值、条码购物，解放你的双手，告别繁琐操作。
+3.商品一日三送，订单全程实时跟踪，一切尽在掌握。
+4.支持京东白条购物，可享受“先消费，后付款”的全新购物体验。更有灵活的分期付款方式可供选择，最长可分24期，享有超低的分期费率。
+5.支持扫码支付，通过京东客户端的“扫一扫”功能，扫描京东订单的二维码或条形码方式后跳转到支付页面进行付款。可以使用快捷，白条、小金库等方式付款。",author:"京东商城",screen:["app/com.jingdong.app.mall/screen0.jpg","app/com.jingdong.app.mall/screen1.jpg","app/com.jingdong.app.mall/screen2.jpg","app/com.jingdong.app.mall/screen3.jpg","app/com.jingdong.app.mall/screen4.jpg"],safe:[{safeUrl:"app/com.jingdong.app.mall/safeIcon0.jpg",safeDesUrl:"app/com.jingdong.app.mall/safeDesUrl0.jpg",safeDes:"已通过安智市场官方认证，是正版软件",safeDesColor:0},{safeUrl:"app/com.jingdong.app.mall/safeIcon1.jpg",safeDesUrl:"app/com.jingdong.app.mall/safeDesUrl1.jpg",safeDes:"已通过安智市场安全检测，请放心使用",safeDesColor:0},{safeUrl:"app/com.jingdong.app.mall/safeIcon2.jpg",safeDesUrl:"app/com.jingdong.app.mall/safeDesUrl2.jpg",safeDes:"无任何形式的广告",safeDesColor:0}]}

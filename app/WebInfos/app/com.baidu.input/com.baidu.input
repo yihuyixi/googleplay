@@ -1,0 +1,10 @@
+{id:1619732,name:"百度输入法",packageName:com.baidu.input,iconUrl:"app/com.baidu.input/icon.jpg",stars:4.0,downloadNum:"1000万+",version:"4.3.5.5",date:"2014-06-05",size:9101582,downloadUrl:"app/com.baidu.input/com.baidu.input.apk",des:"【主要功能】
+智能全键：全新独创键盘感应技术！超强纠错功能，智能感应键盘及输错位置，实现轻松盲打！
+超大系统词库：重构内核架构，50万系统词库，输入流畅，选词精准。
+本地化词库：优选安装所在地的特色词库，词库随身携带，轻松输入当地的地名、风景名胜。
+最精准语音输入：首家采用深度神经网络声音建模，识别率高，边说边上屏，节省流量超过30%
+表情支持：新增表情商店，众多经典形象可免费下载，独家支持gif动态表情、大型颜文字、鲸鱼表情
+全新手写：支持叠写。边写边出字，识别速度快；毛笔字效果；手写生僻字注音及手写修改
+最全输入方式：支持拼音、英文、笔画、五笔、语音、多媒体等多种输入方式
+海量皮肤：海量主题皮肤，动漫、清新等多种分类任你选择。
+全球首创多媒体输入：支持涂鸦、随写、语音、位置等创新输入方式",author:"百度",screen:["app/com.baidu.input/screen0.jpg","app/com.baidu.input/screen1.jpg","app/com.baidu.input/screen2.jpg","app/com.baidu.input/screen3.jpg","app/com.baidu.input/screen4.jpg"],safe:[{safeUrl:"app/com.baidu.input/safeIcon0.jpg",safeDesUrl:"app/com.baidu.input/safeDesUrl0.jpg",safeDes:"已通过安智市场官方认证，是正版软件",safeDesColor:0},{safeUrl:"app/com.baidu.input/safeIcon1.jpg",safeDesUrl:"app/com.baidu.input/safeDesUrl1.jpg",safeDes:"已通过安智市场安全检测，请放心使用",safeDesColor:0},{safeUrl:"app/com.baidu.input/safeIcon2.jpg",safeDesUrl:"app/com.baidu.input/safeDesUrl2.jpg",safeDes:"无任何形式的广告",safeDesColor:0}]}
