@@ -5,8 +5,11 @@
 ##Thanks
 +
 -PullToRefresh library
--PhotoView 
+
+-PhotoView
+
 -Gson 
+
 -PagerSlidingTab
 
 ##Contact me
