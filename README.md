@@ -3,14 +3,14 @@
 -This is an Android application(谷歌市场) in Heima
 
 ##Thanks
-+
--PullToRefresh library
 
--PhotoView
+PullToRefresh library
 
--Gson 
+PhotoView
 
--PagerSlidingTab
+Gson 
+
+PagerSlidingTab
 
 ##Contact me
 -1360789864@qq.com
